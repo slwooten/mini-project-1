@@ -1,0 +1,54 @@
+html, * {
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      background-color:rgb(135, 245, 251)
+  }
+
+  header {
+      background-color: rgb(222, 60, 75);
+      color: rgb(135, 245, 251);
+      padding: 10px;
+      position: fixed;
+      top: 0;
+      width: 100%;
+  }
+
+  nav {
+      margin-right: 50px;
+  }
+
+  nav a {
+      margin: 8px;
+      margin-left: 10px;
+      color:rgb(135, 245, 251);
+      float: right; 
+  }
+
+  main {
+      margin-top: 160px;
+  }
+
+  input, button {
+      padding: 5px;
+  }
+
+  footer {
+      position: absolute;
+      bottom: 2px;
+  }
+
+  .feature, .figure {
+      color:rgb(222, 60, 75);
+      padding: 5px;
+  }
+
+.contact {
+    color: rgb(53, 80, 112);
+    padding: 5px;
+}
+  
+    
